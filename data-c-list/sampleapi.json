@@ -7,14 +7,16 @@
       "id": "",
       "username": "AOO433",
       "password": "CMI107",
-      "expiresAt": "10\/13\/2026",
+      "expiresAt": "10\/03\/2026",
+      "maxDevices":"0",
       "allowOffline": "true"
     },
     {
       "id": "",
       "username": "QTL882",
       "password": "IQM974",
-      "expiresAt": "10\/13\/2026",
+      "expiresAt": "10\/04\/2026",
+      "maxDevices":"2",
       "allowOffline": "true"
     }
   ]
